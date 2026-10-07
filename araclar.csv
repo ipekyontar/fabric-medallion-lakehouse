@@ -1,0 +1,64 @@
+arac_id,musteri_id,plaka,marka,model,model_yili,yakit_tipi
+1,1,"01 CZ 160",Ford,Puma,2021,Hibrit
+2,2,"36 SG 652",Ford,Kuga,2021,Benzinli
+3,3,"25 DD 774",Toyota,Corolla,2024,Hibrit
+4,4,"13 BN 845",Volkswagen,Tiguan,2018,Hibrit
+5,5,"69 RE 532",BMC,Tugra,2021,Dizel
+6,6,"71 DB 767",Toyota,Corolla,2025,Benzinli
+7,7,"53 SS 318",Ford,Focus,2020,Benzinli
+8,7,"01 NJ 902",Volkswagen,Golf,2024,Dizel
+9,8,"25 KG 159",Tesla,"Model Y",2020,Elektrikli
+10,8,"75 ST 973",Ford,Kuga,2018,Benzinli
+11,9,"77 CH 513",Ford,Focus,2019,Benzinli
+12,10,"54 VV 635",Renault,Megane,2019,Elektrikli
+13,11,"34 NE 787",Tesla,"Model 3",2021,Elektrikli
+14,12,"59 YV 202",Toyota,C-HR,2018,Benzinli
+15,13,"09 HM 391",Renault,Zoe,2023,Benzinli
+16,14,"18 JD 209",Tesla,"Model 3",2019,Elektrikli
+17,15,"44 GZ 973",Otokar,Kent,2021,Elektrikli
+18,16,"55 JB 103",Toyota,C-HR,2019,Benzinli
+19,17,"71 PU 109",Otokar,Kent,2025,Dizel
+20,18,"56 EB 415",Otokar,Territo,2020,Elektrikli
+21,19,"14 MU 995",Ford,Kuga,2021,Benzinli
+22,20,"53 AF 854",Otokar,Territo,2020,Dizel
+23,21,"14 NB 979",Volkswagen,Passat,2020,Elektrikli
+24,21,"45 KH 328",Toyota,Corolla,2025,Benzinli
+25,22,"09 JM 756",Renault,Austral,2022,Dizel
+26,23,"23 VJ 139",Togg,T10X,2022,Elektrikli
+27,24,"78 TD 494",Volkswagen,ID.4,2024,Elektrikli
+28,25,"01 TU 803",Renault,Zoe,2024,Benzinli
+29,25,"43 YL 779",Renault,Zoe,2019,Dizel
+30,26,"52 KU 230",Tesla,"Model Y",2023,Elektrikli
+31,26,"23 YV 408",Renault,Austral,2024,Elektrikli
+32,27,"56 VY 770",Ford,Kuga,2021,Dizel
+33,28,"22 CK 627",Toyota,C-HR,2025,Benzinli
+34,29,"29 GE 125",Togg,T10X,2022,Elektrikli
+35,30,"54 ZV 299",Toyota,RAV4,2025,Benzinli
+36,31,"19 ZA 868",Volkswagen,Tiguan,2021,Hibrit
+37,32,"67 RB 670",BMC,Neyra,2020,Dizel
+38,32,"60 TU 709",Renault,Megane,2020,Dizel
+39,33,"21 SR 365",Toyota,RAV4,2025,Hibrit
+40,34,"57 CK 340",Tesla,"Model Y",2022,Elektrikli
+41,34,"18 EH 492",Tesla,"Model Y",2019,Elektrikli
+42,35,"43 UR 525",Renault,Megane,2024,Dizel
+43,36,"62 AM 405",Volkswagen,Tiguan,2024,Benzinli
+44,37,"35 PS 129",Volkswagen,Passat,2021,Hibrit
+45,37,"60 EY 646",Volkswagen,ID.4,2020,Hibrit
+46,38,"18 RF 151",Volkswagen,Golf,2024,Benzinli
+47,39,"44 NJ 870",Togg,T10X,2023,Elektrikli
+48,40,"03 UB 458",Volkswagen,ID.4,2025,Benzinli
+49,40,"04 HG 959",Renault,Megane,2018,Elektrikli
+50,41,"15 VG 576",Otokar,Territo,2025,Dizel
+51,42,"40 DV 126",Togg,T10X,2020,Elektrikli
+52,43,"76 ZH 204",Volkswagen,Tiguan,2019,Dizel
+53,43,"69 PM 170",Tesla,"Model 3",2023,Elektrikli
+54,44,"14 PM 750",Togg,T10X,2025,Elektrikli
+55,45,"23 TZ 376",Toyota,RAV4,2024,Benzinli
+56,45,"42 HC 385",Toyota,C-HR,2022,Hibrit
+57,46,"44 AS 971",Renault,Austral,2024,Elektrikli
+58,46,"46 JL 386",Togg,T10X,2021,Elektrikli
+59,47,"31 PS 668",Tesla,"Model 3",2019,Elektrikli
+60,47,"58 AC 401",Renault,Austral,2025,Elektrikli
+61,48,"61 UT 452",Renault,Zoe,2023,Elektrikli
+62,49,"40 JH 223",Togg,T10X,2022,Elektrikli
+63,50,"28 SJ 841",Togg,T10X,2021,Elektrikli

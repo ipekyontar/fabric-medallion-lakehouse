@@ -1,0 +1,172 @@
+servis_id,arac_id,servis_tarihi,servis_tipi,aciklama,maliyet_tl,memnuniyet_puani
+1,1,2024-12-15,"Batarya Kontrolu","Musteri fiyattan sikayetci.",2431.47,2
+2,1,2024-09-18,"Sarj Sistemi Kontrolu","Parca temininde gecikme yasandi.",2859.95,5
+3,1,2026-03-24,"Yazilim Guncelleme","Parca temininde gecikme yasandi.",6186.51,5
+4,2,2024-09-16,"Motor Bakimi","Musteri fiyattan sikayetci.",4644.98,4
+5,3,2024-10-26,"Yazilim Guncelleme","Hizli ve sorunsuz servis.",1393.90,1
+6,3,2026-01-20,"Lastik Degisimi","Standart bakim tamamlandi.",6109.43,1
+7,4,2026-04-03,"Yazilim Guncelleme","Bekleme suresi uzun oldu.",9444.35,2
+8,4,2025-11-04,"Motor Bakimi","Standart bakim tamamlandi.",7585.28,3
+9,5,2025-12-09,"Kaporta Onarimi","Musteri fiyattan sikayetci.",8220.52,5
+10,5,2025-07-13,"Motor Bakimi","Standart bakim tamamlandi.",901.11,5
+11,5,2024-12-14,"Batarya Kontrolu","Islem sorunsuz tamamlandi.",2771.51,2
+12,5,2025-05-07,"Fren Bakimi","Musteri iletisimden memnun degil.",1036.84,1
+13,6,2026-08-10,"Motor Bakimi","Hizli ve sorunsuz servis.",3015.02,3
+14,6,2026-08-28,"Yazilim Guncelleme","Hizli ve sorunsuz servis.",1001.29,3
+15,6,2025-06-01,"Motor Bakimi","Islem sorunsuz tamamlandi.",4240.02,4
+16,6,2026-06-29,"Fren Bakimi","Musteri fiyattan sikayetci.",7913.68,1
+17,7,2025-07-15,"Motor Bakimi","Standart bakim tamamlandi.",8778.91,4
+18,7,2025-12-27,"Yazilim Guncelleme","Ek ariza tespit edildi.",8975.49,4
+19,8,2025-11-26,"Lastik Degisimi","Standart bakim tamamlandi.",714.73,4
+20,8,2025-07-31,"Motor Bakimi","Musteri fiyattan sikayetci.",586.66,3
+21,8,2026-07-26,"Motor Bakimi","Standart bakim tamamlandi.",9049.69,5
+22,8,2026-07-24,"Yazilim Guncelleme","Standart bakim tamamlandi.",718.12,5
+23,9,2026-02-17,"Kaporta Onarimi","Musteri fiyattan sikayetci.",2010.63,4
+24,9,2026-06-16,"Kaporta Onarimi","Bekleme suresi uzun oldu.",4650.60,4
+25,9,2025-07-29,"Lastik Degisimi","Parca temininde gecikme yasandi.",3367.70,4
+26,9,2025-06-26,"Genel Kontrol","Musteri iletisimden memnun degil.",685.78,2
+27,10,2025-08-01,"Lastik Degisimi","Ek ariza tespit edildi.",8263.93,5
+28,10,2024-09-05,"Sarj Sistemi Kontrolu","Hizli ve sorunsuz servis.",4131.22,2
+29,10,2025-09-09,"Motor Bakimi","Hizli ve sorunsuz servis.",6072.49,5
+30,11,2025-06-04,"Sarj Sistemi Kontrolu","Parca temininde gecikme yasandi.",8838.21,4
+31,11,2026-08-20,"Kaporta Onarimi","Bekleme suresi uzun oldu.",614.16,4
+32,12,2026-08-31,"Fren Bakimi","Musteri fiyattan sikayetci.",5390.18,4
+33,12,2024-12-08,"Batarya Kontrolu","Bekleme suresi uzun oldu.",4572.25,2
+34,13,2026-01-27,"Yazilim Guncelleme","Musteri iletisimden memnun degil.",6804.52,4
+35,13,2026-01-11,"Kaporta Onarimi","Islem sorunsuz tamamlandi.",4529.60,2
+36,14,2026-05-10,"Sarj Sistemi Kontrolu","Parca temininde gecikme yasandi.",8255.85,3
+37,14,2025-11-02,"Klima Bakimi","Musteri iletisimden memnun degil.",2794.63,1
+38,15,2026-04-28,"Motor Bakimi","Hizli ve sorunsuz servis.",8267.13,4
+39,15,2026-01-12,"Klima Bakimi","Randevu saatinde baslandi.",5400.04,4
+40,15,2025-12-14,"Klima Bakimi","Islem sorunsuz tamamlandi.",9324.09,3
+41,16,2025-05-01,"Genel Kontrol","Musteri memnun ayrildi.",3261.31,4
+42,16,2025-09-29,"Genel Kontrol","Parca temininde gecikme yasandi.",4882.26,1
+43,16,2026-01-31,"Motor Bakimi","Randevu saatinde baslandi.",8307.76,5
+44,16,2025-11-28,"Lastik Degisimi","Musteri iletisimden memnun degil.",8680.54,1
+45,17,2025-10-28,"Fren Bakimi","Bekleme suresi uzun oldu.",4645.84,5
+46,17,2025-08-16,"Motor Bakimi","Ek ariza tespit edildi.",6296.01,5
+47,18,2025-07-25,"Kaporta Onarimi","Musteri iletisimden memnun degil.",678.48,1
+48,18,2026-06-12,"Yazilim Guncelleme","Islem sorunsuz tamamlandi.",7182.91,4
+49,18,2024-12-13,"Lastik Degisimi","Hizli ve sorunsuz servis.",1872.24,3
+50,18,2024-10-03,"Periyodik Bakim","Randevu saatinde baslandi.",7634.71,3
+51,19,2025-11-19,"Fren Bakimi","Islem sorunsuz tamamlandi.",5210.17,4
+52,19,2025-03-07,"Fren Bakimi","Parca temininde gecikme yasandi.",1072.56,5
+53,19,2026-05-31,"Batarya Kontrolu","Hizli ve sorunsuz servis.",8702.39,2
+54,20,2026-06-19,"Yazilim Guncelleme","Hizli ve sorunsuz servis.",2686.24,1
+55,20,2025-12-24,"Yazilim Guncelleme","Musteri iletisimden memnun degil.",1795.48,4
+56,20,2025-08-23,"Motor Bakimi","Musteri fiyattan sikayetci.",6196.29,4
+57,20,2025-05-18,"Kaporta Onarimi","Musteri fiyattan sikayetci.",2172.84,3
+58,21,2024-12-22,"Batarya Kontrolu","Ek ariza tespit edildi.",5583.09,4
+59,21,2026-08-21,"Yazilim Guncelleme","Musteri memnun ayrildi.",9298.19,4
+60,21,2025-06-12,"Periyodik Bakim","Standart bakim tamamlandi.",8265.37,5
+61,21,2024-10-24,"Motor Bakimi","Hizli ve sorunsuz servis.",7970.48,5
+62,22,2026-05-18,"Klima Bakimi","Islem sorunsuz tamamlandi.",6175.05,4
+63,22,2026-07-30,"Fren Bakimi","Bekleme suresi uzun oldu.",8616.14,4
+64,23,2025-11-29,"Periyodik Bakim","Standart bakim tamamlandi.",3688.48,2
+65,23,2025-07-03,"Klima Bakimi","Ek ariza tespit edildi.",1957.11,2
+66,23,2026-03-10,"Klima Bakimi","Musteri iletisimden memnun degil.",4941.42,3
+67,24,2025-05-25,"Kaporta Onarimi","Musteri fiyattan sikayetci.",7181.02,3
+68,24,2024-12-30,"Kaporta Onarimi","Bekleme suresi uzun oldu.",1637.93,5
+69,25,2026-03-28,"Klima Bakimi","Bekleme suresi uzun oldu.",7584.74,1
+70,25,2026-03-07,"Lastik Degisimi","Hizli ve sorunsuz servis.",3722.56,5
+71,25,2025-05-30,"Motor Bakimi","Ek ariza tespit edildi.",7875.12,5
+72,25,2024-12-23,"Batarya Kontrolu","Hizli ve sorunsuz servis.",578.98,5
+73,26,2026-05-21,"Batarya Kontrolu","Bekleme suresi uzun oldu.",6163.95,4
+74,26,2026-08-22,"Yazilim Guncelleme","Ek ariza tespit edildi.",1417.58,1
+75,26,2024-10-12,"Yazilim Guncelleme","Hizli ve sorunsuz servis.",1412.50,3
+76,27,2025-10-06,"Kaporta Onarimi","Randevu saatinde baslandi.",6484.95,5
+77,27,2026-03-11,"Genel Kontrol","Standart bakim tamamlandi.",7141.76,2
+78,28,2026-07-06,"Lastik Degisimi","Hizli ve sorunsuz servis.",5983.22,5
+79,28,2025-06-17,"Periyodik Bakim","Randevu saatinde baslandi.",2338.02,4
+80,28,2025-05-03,"Klima Bakimi","Bekleme suresi uzun oldu.",9325.49,3
+81,28,2026-06-26,"Klima Bakimi","Musteri memnun ayrildi.",3992.98,2
+82,29,2025-12-13,"Lastik Degisimi","Islem sorunsuz tamamlandi.",6221.60,4
+83,30,2024-10-25,"Klima Bakimi","Islem sorunsuz tamamlandi.",9397.71,5
+84,31,2024-11-13,"Sarj Sistemi Kontrolu","Islem sorunsuz tamamlandi.",5715.41,5
+85,31,2025-04-30,"Klima Bakimi","Parca temininde gecikme yasandi.",7566.09,4
+86,32,2025-01-30,"Fren Bakimi","Musteri iletisimden memnun degil.",2643.49,2
+87,32,2026-07-12,"Periyodik Bakim","Parca temininde gecikme yasandi.",485.97,5
+88,32,2025-05-05,"Motor Bakimi","Randevu saatinde baslandi.",494.40,3
+89,33,2025-11-09,"Sarj Sistemi Kontrolu","Bekleme suresi uzun oldu.",7172.84,4
+90,33,2025-09-09,"Sarj Sistemi Kontrolu","Standart bakim tamamlandi.",1347.84,4
+91,34,2026-07-10,"Sarj Sistemi Kontrolu","Musteri fiyattan sikayetci.",4541.09,5
+92,35,2026-01-07,"Genel Kontrol","Ek ariza tespit edildi.",6627.79,4
+93,36,2024-11-18,"Lastik Degisimi","Randevu saatinde baslandi.",5915.92,1
+94,36,2025-06-12,"Motor Bakimi","Standart bakim tamamlandi.",5367.46,3
+95,36,2026-05-08,"Sarj Sistemi Kontrolu","Musteri fiyattan sikayetci.",4501.50,4
+96,36,2024-12-14,"Lastik Degisimi","Musteri iletisimden memnun degil.",6945.69,3
+97,37,2025-04-25,"Genel Kontrol","Randevu saatinde baslandi.",7920.89,3
+98,37,2024-12-10,"Klima Bakimi","Ek ariza tespit edildi.",3209.59,3
+99,37,2025-02-07,"Kaporta Onarimi","Bekleme suresi uzun oldu.",1184.71,2
+100,37,2025-11-20,"Lastik Degisimi","Randevu saatinde baslandi.",7777.69,4
+101,38,2026-07-22,"Lastik Degisimi","Ek ariza tespit edildi.",3585.42,4
+102,38,2025-11-11,"Periyodik Bakim","Musteri fiyattan sikayetci.",5843.75,3
+103,38,2026-04-18,"Sarj Sistemi Kontrolu","Islem sorunsuz tamamlandi.",1765.78,4
+104,39,2025-08-28,"Sarj Sistemi Kontrolu","Randevu saatinde baslandi.",1401.20,3
+105,40,2025-11-17,"Sarj Sistemi Kontrolu","Standart bakim tamamlandi.",5964.20,4
+106,40,2024-09-30,"Motor Bakimi","Musteri fiyattan sikayetci.",614.92,3
+107,41,2025-08-17,"Klima Bakimi","Musteri memnun ayrildi.",2009.86,2
+108,41,2026-07-09,"Genel Kontrol","Bekleme suresi uzun oldu.",1648.15,4
+109,41,2024-10-05,"Lastik Degisimi","Musteri iletisimden memnun degil.",2318.47,4
+110,42,2025-02-12,"Klima Bakimi","Musteri fiyattan sikayetci.",6952.60,5
+111,42,2026-04-08,"Motor Bakimi","Bekleme suresi uzun oldu.",8432.58,2
+112,42,2026-05-29,"Periyodik Bakim","Bekleme suresi uzun oldu.",2839.74,4
+113,43,2026-05-18,"Kaporta Onarimi","Ek ariza tespit edildi.",2849.48,5
+114,43,2024-12-29,"Klima Bakimi","Ek ariza tespit edildi.",1364.64,4
+115,43,2026-05-04,"Kaporta Onarimi","Musteri iletisimden memnun degil.",6454.26,1
+116,43,2025-10-13,"Motor Bakimi","Musteri memnun ayrildi.",420.34,3
+117,44,2025-01-22,"Yazilim Guncelleme","Musteri fiyattan sikayetci.",3352.32,1
+118,44,2025-11-18,"Fren Bakimi","Parca temininde gecikme yasandi.",3828.90,5
+119,45,2024-11-16,"Genel Kontrol","Musteri memnun ayrildi.",4341.41,4
+120,45,2024-11-22,"Klima Bakimi","Standart bakim tamamlandi.",4277.95,4
+121,45,2026-06-21,"Genel Kontrol","Musteri fiyattan sikayetci.",1403.84,1
+122,46,2025-02-26,"Motor Bakimi","Hizli ve sorunsuz servis.",7963.04,5
+123,46,2024-12-03,"Genel Kontrol","Bekleme suresi uzun oldu.",2576.35,4
+124,46,2026-02-22,"Lastik Degisimi","Ek ariza tespit edildi.",8315.30,5
+125,47,2025-08-11,"Fren Bakimi","Bekleme suresi uzun oldu.",5020.92,2
+126,47,2026-02-08,"Batarya Kontrolu","Randevu saatinde baslandi.",3562.56,5
+127,48,2025-05-03,"Lastik Degisimi","Parca temininde gecikme yasandi.",2692.11,2
+128,48,2025-02-07,"Lastik Degisimi","Parca temininde gecikme yasandi.",9054.32,4
+129,49,2026-04-04,"Motor Bakimi","Hizli ve sorunsuz servis.",6582.37,5
+130,49,2026-06-24,"Motor Bakimi","Randevu saatinde baslandi.",8257.86,4
+131,49,2025-02-05,"Kaporta Onarimi","Bekleme suresi uzun oldu.",4640.63,4
+132,49,2025-06-12,"Motor Bakimi","Musteri memnun ayrildi.",3570.27,1
+133,50,2025-12-10,"Periyodik Bakim","Musteri memnun ayrildi.",3723.95,3
+134,50,2026-06-26,"Lastik Degisimi","Standart bakim tamamlandi.",5785.83,3
+135,50,2026-04-21,"Sarj Sistemi Kontrolu","Musteri memnun ayrildi.",4465.06,5
+136,50,2026-07-03,"Batarya Kontrolu","Randevu saatinde baslandi.",5885.80,4
+137,51,2025-12-09,"Lastik Degisimi","Randevu saatinde baslandi.",9338.83,2
+138,52,2024-10-14,"Batarya Kontrolu","Hizli ve sorunsuz servis.",9417.52,4
+139,52,2026-05-21,"Fren Bakimi","Randevu saatinde baslandi.",3761.60,3
+140,53,2025-08-16,"Motor Bakimi","Musteri memnun ayrildi.",7571.43,4
+141,53,2024-11-10,"Klima Bakimi","Bekleme suresi uzun oldu.",5455.36,3
+142,53,2025-05-20,"Motor Bakimi","Parca temininde gecikme yasandi.",3400.26,4
+143,53,2025-01-26,"Klima Bakimi","Musteri fiyattan sikayetci.",9204.42,4
+144,54,2025-01-14,"Motor Bakimi","Bekleme suresi uzun oldu.",3182.67,3
+145,54,2025-08-06,"Fren Bakimi","Musteri iletisimden memnun degil.",1205.09,4
+146,54,2026-02-06,"Klima Bakimi","Musteri memnun ayrildi.",3667.77,2
+147,54,2025-04-11,"Klima Bakimi","Hizli ve sorunsuz servis.",2106.85,5
+148,55,2024-11-22,"Yazilim Guncelleme","Bekleme suresi uzun oldu.",4995.36,4
+149,55,2026-02-25,"Periyodik Bakim","Randevu saatinde baslandi.",8368.99,4
+150,56,2025-02-08,"Fren Bakimi","Parca temininde gecikme yasandi.",7956.81,5
+151,56,2025-02-20,"Kaporta Onarimi","Musteri memnun ayrildi.",4109.36,4
+152,56,2025-05-05,"Kaporta Onarimi","Standart bakim tamamlandi.",2957.09,5
+153,56,2025-12-07,"Batarya Kontrolu","Musteri iletisimden memnun degil.",2538.39,5
+154,57,2025-03-21,"Klima Bakimi","Standart bakim tamamlandi.",9357.62,4
+155,57,2025-06-19,"Genel Kontrol","Musteri iletisimden memnun degil.",5176.26,5
+156,57,2025-03-27,"Motor Bakimi","Parca temininde gecikme yasandi.",8337.97,1
+157,57,2026-01-09,"Klima Bakimi","Musteri iletisimden memnun degil.",8898.79,5
+158,58,2025-06-22,"Lastik Degisimi","Parca temininde gecikme yasandi.",2846.04,5
+159,59,2025-11-25,"Lastik Degisimi","Islem sorunsuz tamamlandi.",7822.83,5
+160,59,2024-10-01,"Genel Kontrol","Musteri memnun ayrildi.",3977.55,3
+161,60,2024-11-26,"Klima Bakimi","Islem sorunsuz tamamlandi.",607.92,5
+162,60,2026-07-01,"Klima Bakimi","Parca temininde gecikme yasandi.",1609.04,3
+163,60,2025-12-31,"Fren Bakimi","Hizli ve sorunsuz servis.",4454.70,1
+164,60,2024-11-24,"Periyodik Bakim","Musteri fiyattan sikayetci.",2323.24,2
+165,61,2024-12-26,"Yazilim Guncelleme","Islem sorunsuz tamamlandi.",3105.53,1
+166,61,2025-11-07,"Motor Bakimi","Hizli ve sorunsuz servis.",924.69,5
+167,61,2026-01-28,"Motor Bakimi","Musteri iletisimden memnun degil.",500.38,4
+168,61,2025-05-09,"Fren Bakimi","Musteri fiyattan sikayetci.",4277.54,4
+169,62,2026-04-11,"Genel Kontrol","Parca temininde gecikme yasandi.",6429.00,2
+170,62,2025-09-08,"Lastik Degisimi","Musteri iletisimden memnun degil.",5328.35,5
+171,63,2025-10-08,"Kaporta Onarimi","Musteri memnun ayrildi.",6166.39,5
